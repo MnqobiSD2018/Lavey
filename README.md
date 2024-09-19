@@ -1,11 +1,10 @@
 # Lavey
-Harare Institute of Technology
-School of Information, Science and Technology
-Software Engineering
-Mnqobi Dube H230585G
+## Harare Institute of Technology
+### School of Information, Science and Technology
+_Software Engineering_
 
-Lecturer: Mr  T.Duri
-
-An Ecommerce website for ISE2102 Web Technologies 
+<p>Mnqobi Dube H230585G</p>
+<p>Lecturer: Mr  T.Duri</p>
+<p>An Ecommerce website for ISE2102 Web Technologies</p>
 
 
