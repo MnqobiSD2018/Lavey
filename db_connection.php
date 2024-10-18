@@ -1,9 +1,9 @@
 <?php
 // Database connection parameters
-$host = 'localhost'; // Your database host
-$username = 'root'; // Your database username
-$password = ''; // Your database password (empty for XAMPP by default)
-$database = 'sneakerhub'; // Your database name
+$host = 'sql208.infinityfree.com'; // database host
+$username = 'if0_37517218'; // database username
+$password = 'E000212CPSE'; // database password (empty for XAMPP by default)
+$database = 'sneakerhub'; // database name
 
 // Create a connection
 $con = mysqli_connect($host, $username, $password, $database);
