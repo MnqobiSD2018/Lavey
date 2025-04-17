@@ -4,7 +4,8 @@
 
 ### Description
 <p>A simple E-Commerce Sneaker Website</p>
-
+<p> Because of limited or very little _**free**_ php hosting sites, to see the site you will have to copy the repo and try it out on your own (Hosted it on [InfinityFree](https://www.infinityfree.com) but it got taken down and needs me to regulary sign in which is very tedious)</p>
+Will also upload the database for you to see the database type and the schema used
 ---
 
 #### Technologies Used
@@ -25,6 +26,7 @@
 - Almost all photos are from [PNGWing](pngwing.com) and [Pexels](pexels.com)
 - The Product Descriptions where given by [Poe](poe.com)
 
+---
 
 
 
