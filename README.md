@@ -1,15 +1,11 @@
-# SNEAKER ⚫ HUB
+<p><img src="(images/fevicon/logo.png)" alt="Sneaker Hub Logo"/></p>
 
-### Harare Institute of Technology
-### School of Information, Science and Technology
+<h1 align="center"> SNEAKER ⚫ HUB </h1>
 
-_Software Engineering_
+### Description
+<p>A simple E-Commerce Sneaker Website</p>
 
-<p>Mnqobi Dube H230585G</p>
-<p>Lecturer: Mr  T.Duri</p>
-<p>An Ecommerce website for ISE2102 Web Technologies</p>
-<h5>Tools Used</h5>
-
+---
 
 #### Technologies Used
 <p>
@@ -20,9 +16,12 @@ _Software Engineering_
 <img src="https://img.icons8.com/?size=100&id=13631&format=png&color=000000" width="36" height="36" alt=""/>
 </p>
 
+---
+
 ### References
-Almost all photos are from [PNGWing](pngwing.com) and [Pexels](pexels.com)
-The Product Description where given by [Poe](poe.com)
+- Almost all photos are from [PNGWing](pngwing.com) and [Pexels](pexels.com)
+- The Product Descriptions where given by [Poe](poe.com)
+
 
 
 
