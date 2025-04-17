@@ -4,8 +4,10 @@
 
 ### Description
 <p>A simple E-Commerce Sneaker Website</p>
-<p> Because of limited or very little <i><strong>free</strong></i> php hosting sites, to see the site you will have to copy the repo and try it out on your own (Hosted it on [InfinityFree](https://www.infinityfree.com) but it got taken down and needs me to regulary sign in which is very tedious)</p>
-Will also upload the database for you to see the database type and the schema used <a href="if0_37517218_sneakerhub.sql">DB File</a>
+<p> Because of limited or very little <i><strong>free</strong></i> php hosting sites, to see the site you will have to copy the repo and try it out on your own (Hosted it on [InfinityFree](https://www.infinityfree.com) but it got taken down and needs me to regulary sign in which is very tedious) </p>
+
+Will also upload the database for you to see the database type and the schema used <a href="if0_37517218_sneakerhub.sql"> DB File </a>
+
 ---
 
 #### Technologies Used
