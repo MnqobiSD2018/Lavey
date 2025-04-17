@@ -1,4 +1,4 @@
-<p><img src="(images/fevicon/logo.png)" alt="Sneaker Hub Logo"/></p>
+<p><img src="images/fevicon/logo.png" alt="Sneaker Hub Logo"/></p>
 
 <h1 align="center"> SNEAKER ⚫ HUB </h1>
 
